@@ -120,9 +120,9 @@ For a detailed breakdown of the architecture, refer to the project report.
 
 ## Contributors
 
-- **Esteban Lopez** – Model development & optimization
-- **Shruti Karkamar** – Training strategy & evaluation
-- **Steven Granaturov** – Data preprocessing & augmentation
+- **Esteban Lopez** 
+- **Shruti Karkamar** 
+- **Steven Granaturov** 
 
 ---
 
